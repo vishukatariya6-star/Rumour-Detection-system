@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+feedparser
+newspaper3k
+scikit-learn
+deep-translator
+langdetect
+SpeechRecognition
+lxml
+nltk
+openpyxl
+python-dotenv
+lxml.html.clean
+
